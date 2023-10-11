@@ -1,4 +1,4 @@
-package com.ruangaldo.cryptofeed
+package com.ruangaldo.cryptofeed.domain
 
 import kotlinx.coroutines.flow.Flow
 import java.lang.Exception

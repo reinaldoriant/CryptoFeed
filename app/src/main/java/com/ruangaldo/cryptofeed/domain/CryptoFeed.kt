@@ -1,4 +1,4 @@
-package com.ruangaldo.cryptofeed
+package com.ruangaldo.cryptofeed.domain
 
 /**
  * Written with joy and smile by Ruang Aldo on 11/10/23.
